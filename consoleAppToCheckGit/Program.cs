@@ -9,7 +9,7 @@ namespace consoleAppToCheckGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hi there");
+            Console.WriteLine("this is from another brachn");
             Console.ReadLine();
         }
     }
